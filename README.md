@@ -1,16 +1,55 @@
-# wiqa
+# 🕌 Wiqa – Your Daily Spiritual Shield
 
-A new Flutter project.
+**Wiqa** is a modern Islamic app developed with Flutter, aiming to help Muslims stay spiritually connected through authentic daily adhkar (remembrances), Quranic verses, and protective supplications.
 
-## Getting Started
+The name "Wiqa" (وقاء) means *protection*, and that’s exactly what the app is designed to offer — spiritual protection through remembrance.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚧 Status: In Development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app is currently under active development.  
+New features and UI improvements are being added regularly.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🌟 Planned Features
+
+- Morning & Evening Adhkar
+- Prayer time notifications
+- Audio recitation of azkar
+- Light & dark mode
+- Bookmark favorite supplications
+- Offline access
+- Clean, responsive UI
+
+---
+
+## 🛠 Tech Stack
+
+- Flutter (Dart)
+- State Management (Provider / Riverpod)
+- Local Storage (Hive or Shared Preferences)
+- Firebase (for future notifications)
+
+---
+
+## 📬 Contributing
+
+We welcome feedback, ideas, and contributions.  
+Feel free to fork this repo, open issues, or submit pull requests.
+
+---
+
+## 🇸🇦 بالعربية
+
+**وقاء** هو تطبيق أذكار إسلامي تم تصميمه بلغة Flutter لتوفير تجربة يومية روحانية تُسهّل على المسلم تذكّر الأذكار في الصباح والمساء، مع ميزات متعددة للحماية الروحية.
+
+**الحالة:** التطبيق تحت التطوير، ونرحب بكل اقتراح أو مساهمة.
+
+---
+
+## 📎 License
+
+This project is licensed under the [MIT License](LICENSE).
+
