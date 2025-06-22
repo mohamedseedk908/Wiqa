@@ -1,4 +1,10 @@
 # 🕌 Wiqa – Your Daily Spiritual Shield
+![GitHub stars](https://img.shields.io/github/stars/mohamedseedk908/wiqa?style=social)
+![GitHub forks](https://img.shields.io/github/forks/mohamedseedk908/wiqa?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/mohamedseedk908/wiqa?style=social)
+![License](https://img.shields.io/github/license/mohamedseedk908/wiqa)
+![Flutter](https://img.shields.io/badge/Built%20with-Flutter-blue?logo=flutter)
+![Status](https://img.shields.io/badge/status-In_Progress-yellow)
 
 **Wiqa** is a modern Islamic app developed with Flutter, aiming to help Muslims stay spiritually connected through authentic daily adhkar (remembrances), Quranic verses, and protective supplications.
 
