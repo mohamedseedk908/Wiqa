@@ -79,7 +79,7 @@ class _HomeScreenState extends State<Location> {
 
   Widget build(BuildContext context) {
     return Padding(
-      padding: const EdgeInsets.symmetric(horizontal: 33.5),
+      padding: const EdgeInsets.symmetric(horizontal: 18),
       child: Container(
         height: 46,
         width: 375,
@@ -89,7 +89,16 @@ class _HomeScreenState extends State<Location> {
             SizedBox(
               height: 46,
               width: 154,
-              child: Column(children: [Text("المكان "), Text(currentAddress)]),
+              child: Column(
+                children: [
+                  Text("المكان "),
+                  Text(
+                    currentAddress,
+                    style: TextStyle(fontSize: 14),
+                    maxLines: 1,
+                  ),
+                ],
+              ),
             ),
             SizedBox(
               height: 46,
