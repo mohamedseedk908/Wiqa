@@ -12,6 +12,7 @@ The name "Wiqa" (وقاء) means *protection*, and that’s exactly what the app
 ## 📱 Preview
 ![Screenshot(1).png](assets%2FscreenShot%2FScreenshot%281%29.png)
 ![Screenshot_2.png](assets%2FscreenShot%2FScreenshot_2.png)
+![Screenshot_3.png](assets%2FscreenShot%2FScreenshot_3.png)
 ---
 
 ## 🚧 Status: In Development
