@@ -6,8 +6,9 @@ plugins {
 }
 
 android {
+
     namespace = "com.Wiqa.wiqa"
-    compileSdk = flutter.compileSdkVersion
+    compileSdk = 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {

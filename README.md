@@ -9,7 +9,9 @@
 **Wiqa** is a modern Islamic app developed with Flutter, aiming to help Muslims stay spiritually connected through authentic daily adhkar (remembrances), Quranic verses, and protective supplications.
 
 The name "Wiqa" (وقاء) means *protection*, and that’s exactly what the app is designed to offer — spiritual protection through remembrance.
-
+## 📱 Preview
+![Screenshot(1).png](assets%2FscreenShot%2FScreenshot%281%29.png)
+![Screenshot_2.png](assets%2FscreenShot%2FScreenshot_2.png)
 ---
 
 ## 🚧 Status: In Development
