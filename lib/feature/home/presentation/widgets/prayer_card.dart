@@ -22,7 +22,7 @@ class PrayerCard extends StatelessWidget {
           textDirection: TextDirection.rtl, // نخلي الصورة يمين
           children: [
             // الصورة على اليمين
-            Container(
+            SizedBox(
               height: 165,
               width: 224,
               child: Image.asset(
